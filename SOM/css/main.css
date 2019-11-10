@@ -78,7 +78,7 @@
     top: -3px;
     height: 25px;
     left: -31px;
-    background: url(romasheva.github.io/SOM/img/user.png) no-repeat;
+    background: url(/romasheva.github.io/SOM/img/user.png) no-repeat;
 }
 .reg::before{
     content: '';
@@ -87,7 +87,7 @@
     top: -3px;
     height: 24px;
     left: -40px;
-    background: url(romasheva.github.io/SOM/img/user_reg.png) no-repeat;
+    background: url(/romasheva.github.io/SOM/img/user_reg.png) no-repeat;
 }
 .row{
     margin-top: 41px;
@@ -155,7 +155,7 @@ a img{
     width: 350px;
     position: relative;
     margin-right: 10px;
-    background-image: url(romasheva.github.io/SOM/img/loupe.png);
+    background-image: url(/romasheva.github.io/SOM/img/loupe.png);
     background-repeat: no-repeat;
     background-position: 2% 50%;
 }
