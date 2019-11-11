@@ -78,7 +78,7 @@
     top: -3px;
     height: 25px;
     left: -31px;
-    background: url(/romasheva.github.io/SOM/img/user.png) no-repeat;
+    background: url(/img/user.png) no-repeat;
 }
 .reg::before{
     content: '';
@@ -87,7 +87,7 @@
     top: -3px;
     height: 24px;
     left: -40px;
-    background: url(/romasheva.github.io/SOM/img/user_reg.png) no-repeat;
+    background: url(/img/user_reg.png) no-repeat;
 }
 .row{
     margin-top: 41px;
@@ -155,7 +155,7 @@ a img{
     width: 350px;
     position: relative;
     margin-right: 10px;
-    background-image: url(/romasheva.github.io/SOM/img/loupe.png);
+    background-image: url(/img/loupe.png);
     background-repeat: no-repeat;
     background-position: 2% 50%;
 }
@@ -184,7 +184,7 @@ a img{
     font-size: 17px;
 }
 .time{
-    background: url(/romasheva.github.io/SOM/img/calendar.png) no-repeat;
+    background: url(/img/calendar.png) no-repeat;
     width: 17px;
     height: 17px;
     display: inline-block;
@@ -207,7 +207,7 @@ a img{
     display: inline-block;
     color: #55473a;
     text-decoration: none;
-    background: url(/romasheva.github.io/SOM/img/shopping-cart.png) no-repeat 20px 50%;
+    background: url(/img/shopping-cart.png) no-repeat 20px 50%;
 }
 #cart .heading p{
     margin: 0;
@@ -240,7 +240,7 @@ a img{
     height: 55px;
     font-size: 0;
     border-radius: 4px;
-    background: url(/romasheva.github.io/SOM/img/header_nav_back.png) no-repeat 50% 0;
+    background: url(/img/header_nav_back.png) no-repeat 50% 0;
     position: relative;
 }
 #menu ul li{
@@ -399,7 +399,7 @@ a img{
     border-radius: 5px;
     color: #4691ca;
     font-weight: 500;
-    background: url(/romasheva.github.io/SOM/img/money-bag.png) no-repeat 8px 49%;
+    background: url(/img/money-bag.png) no-repeat 8px 49%;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     outline: 0;
 }
@@ -464,7 +464,7 @@ a img{
 .footer_news_date p:before{
     position: absolute;
     content: '';
-    background: url(/romasheva.github.io/SOM/img/calendar11.png) 0 1px no-repeat;
+    background: url(/img/calendar11.png) 0 1px no-repeat;
     width: 15px;
     height: 18px;
     left: 0;
@@ -493,7 +493,7 @@ a img{
     left: -21px;
     top: -8px;
     position: absolute;
-    background: url(/romasheva.github.io/SOM/img/quote.png) 0 1px no-repeat;
+    background: url(/img/quote.png) 0 1px no-repeat;
     width: 17px;
     height: 16px;
 }
@@ -502,7 +502,7 @@ a img{
     position: absolute;
     right: -22px;
     bottom: -8px;
-    background: url(/romasheva.github.io/SOM/img/quote.png) 0 1px no-repeat;
+    background: url(/img/quote.png) 0 1px no-repeat;
     width: 17px;
     height: 16px;
 }
@@ -540,7 +540,7 @@ a img{
 .block_footer{
     position: absolute;
     clear: both;
-    background: url(/romasheva.github.io/SOM/img/footer_fon.jpg) repeat;
+    background: url(/img/footer_fon.jpg) repeat;
     color: #fff;
     margin: 0 auto;
     font-size: 13px;
@@ -627,7 +627,7 @@ a img{
 }
 .colum_col3 .rigth li:before, .colum_col4 .rigth li:before, .colum_col5 .rigth li:before{
     content: '';
-    background: url(/romasheva.github.io/SOM/img/right-arrow.png) no-repeat; 
+    background: url(/img/right-arrow.png) no-repeat; 
     width: 13px;
     height: 16px;
     top: 20%;
@@ -697,7 +697,7 @@ a img{
     font-size: 0;
     box-shadow: none;
     cursor: pointer;
-    background: green;
+    background: rgb(231, 240, 208);
     border: none;
 }
 .c-hamburger:focus{
@@ -741,7 +741,7 @@ a img{
     transition-property: bottom, transform;
 }
 .c-hamburger-line.is-active{
-    background: green;
+    background:  rgb(231, 240, 208);
 }
 .c-hamburger-line.is-active span{
     background: none;
@@ -760,7 +760,7 @@ a img{
 #h_menu{
     width: 279px;
     margin-left: -279px;
-    background: rgb(16, 219, 16);
+    background: rgb(231, 240, 208);
     position: fixed;
     left: 0;
     top: 0;
@@ -775,13 +775,28 @@ a img{
     width: 80%;
     margin: 30px auto;
     text-align: center;
+    margin-top: 42%;
 }
 .container ul{
+    text-align: center;
     list-style: none;
     margin: 10px;
+    padding-top: 20px;
 }
 .container ul a{
     color: black;
+    text-decoration: none;
+}
+.container ul a:focus{
+    border-bottom: 3px solid rgb(110, 243, 127);
+    transition: 1s;
+    
+}
+.body-active .col{
+    margin-left: 71px;
+}
+.body-active .col li{
+    padding-top: 10px;
 }
 .body-active{
     margin-right: 300px;
@@ -791,7 +806,7 @@ body{
 }
 
 /* Responsive */
-@media screen and (max-width: 400px){
+@media screen and (max-width: 500px){
     /* .header-nav{
         width: 1124px;
     }
