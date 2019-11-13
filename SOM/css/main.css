@@ -909,5 +909,24 @@ body{
     .footer_review .footer_review_text{
         width: 49%;
     }
-
+    .carousel_skin{
+        position: absolute;
+        margin-top: 30px;
+        right: 23%;
+    }
+    .carousel_skin .carousel_clip .carousel_list1{
+        display: block;
+    }
+    .carousel_man{
+        float: none;
+        display: flex;
+        margin-top: 20px;
+    }
+    .carousel_man h3{
+        right: 40%;
+        position: absolute;
+    }
+    .carousel_clip ul li{
+        margin-top: 10px;
+    }
 }
