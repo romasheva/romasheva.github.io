@@ -949,10 +949,11 @@ body{
     background: #5CC2E2;
     border-radius: 50%;
     cursor: pointer;
+    outline: 0 !important;
 }
 .bloc{
     overflow: hidden;
-    outline: 0;
+    outline: 0 !important;
 }
 .pulse{
     position: relative;
@@ -997,12 +998,10 @@ body{
     top: 9px;
     left: 10px;
     transition: .5s ease-in-out;
-    outline: 0 !important;
 }
 .pulse:hover img{
     transition: .5s ease-in-out;
     transform: scale(0);
-    outline: 0 !important;
 }
 @keyframes phone{
     0%, 100%{
