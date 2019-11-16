@@ -939,7 +939,6 @@ body{
     left: 90%;
     transform: translate(-50%, -50%);
     z-index: 99999;
-    outline: 0 !important;
 }
 .pulse, .bloc, .phone{
     position: absolute;
@@ -969,6 +968,7 @@ body{
     bottom: -20px;
     border-radius: 50%;
     animation: pulse 1.8s linear infinite;
+    outline: 0 !important;
 }
 .pulse::after{
     animation-delay: .5s;
@@ -977,7 +977,6 @@ body{
     font-size: 50px;
     line-height: 94px;
     animation: phone .9s ease-in-out infinite;
-    outline: 0;
 }
 .text{
     opacity: 0;
@@ -999,7 +998,6 @@ body{
     top: 9px;
     left: 10px;
     transition: .5s ease-in-out;
-    outline: 0;
 }
 .pulse:hover img{
     transition: .5s ease-in-out;
