@@ -934,10 +934,11 @@ body{
     }
 }
 .dws{
-    position: absolute;
-    top: 50%;
-    left: 50%;
+    position: fixed;
+    top: 92%;
+    left: 96%;
     transform: translate(-50%, -50%);
+    z-index: 99999;
 }
 .pulse, .bloc, .phone{
     position: absolute;
