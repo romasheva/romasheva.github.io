@@ -932,6 +932,9 @@ body{
     .carousel_clip ul li{
         margin-top: 10px;
     }
+    .dws{
+        left: 96%;
+    }
 }
 .dws{
     position: fixed;
