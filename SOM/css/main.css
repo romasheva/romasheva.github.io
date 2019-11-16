@@ -999,6 +999,7 @@ body{
     top: 9px;
     left: 10px;
     transition: .5s ease-in-out;
+    outline: 0;
 }
 .pulse:hover img{
     transition: .5s ease-in-out;
