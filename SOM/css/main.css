@@ -939,7 +939,7 @@ body{
     left: 90%;
     transform: translate(-50%, -50%);
     z-index: 99999;
-    outline: 0;
+    outline: 0 !important;
 }
 .pulse, .bloc, .phone{
     position: absolute;
