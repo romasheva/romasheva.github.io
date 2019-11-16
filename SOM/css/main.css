@@ -933,6 +933,7 @@ body{
         margin-top: 10px;
     }
     .dws{
+        position: fixed;
         left: 96%;
     }
 }
