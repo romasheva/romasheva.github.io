@@ -968,7 +968,6 @@ body{
     bottom: -20px;
     border-radius: 50%;
     animation: pulse 1.8s linear infinite;
-    outline: 0 !important;
 }
 .pulse::after{
     animation-delay: .5s;
@@ -998,10 +997,12 @@ body{
     top: 9px;
     left: 10px;
     transition: .5s ease-in-out;
+    outline: 0 !important;
 }
 .pulse:hover img{
     transition: .5s ease-in-out;
     transform: scale(0);
+    outline: 0 !important;
 }
 @keyframes phone{
     0%, 100%{
