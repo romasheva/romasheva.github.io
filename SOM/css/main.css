@@ -939,7 +939,7 @@ body{
     left: 90%;
     transform: translate(-50%, -50%);
     z-index: 99999;
-    outline: none;
+    outline: 0;
 }
 .pulse, .bloc, .phone{
     position: absolute;
@@ -953,6 +953,7 @@ body{
 }
 .bloc{
     overflow: hidden;
+    outline: 0;
 }
 .pulse{
     position: relative;
@@ -976,6 +977,7 @@ body{
     font-size: 50px;
     line-height: 94px;
     animation: phone .9s ease-in-out infinite;
+    outline: 0;
 }
 .text{
     opacity: 0;
