@@ -694,7 +694,7 @@
     left: 388px;
     top: 8px;
     width: 47px;
-    background: url(/img/Layer\ 12.png);
+    background: url(/sport_betting/img/Layer\ 12.png);
     position: absolute;
 }
 #f13 a{
@@ -702,7 +702,7 @@
     left: calc(50% - 74px/2 - 170px);
     top: calc(50% - 23px/2 - 0.5px);
     width: 74px;
-    background: url(/img/Layer\ 11.png);
+    background: url(/sport_betting/img/Layer\ 11.png);
     position: absolute;
 }
 #f14 a{
@@ -710,7 +710,7 @@
     left: calc(50% - 90px/2);
     top: calc(50% - 19px/2 - 0.5px);
     width: 90px;
-    background: url(/img/Layer\ 16.png);
+    background: url(/sport_betting/img/Layer\ 16.png);
     position: absolute;
 }
 #f15 a{
@@ -718,7 +718,7 @@
     left: calc(50% - 60px/2 + 168px);
     top: calc(50% - 27px/2 - 0.5px);
     width: 60px;
-    background: url(/img/Layer\ 23.png);
+    background: url(/sport_betting/img/Layer\ 23.png);
     position: absolute;
 }
 #f16 a{
@@ -726,7 +726,7 @@
     left: 11px;
     top: 121px;
     width: 87px;
-    background: url(/img/Layer\ 25.png);
+    background: url(/sport_betting/img/Layer\ 25.png);
     position: absolute;
 }
 #f17 a{
@@ -734,7 +734,7 @@
     left: calc(50% - 93px/2 + 0.5px);
     top: calc(50% - 15px/2 + 55.5px);
     width: 93px;
-    background: url(/img/Layer\ 18.png);
+    background: url(/sport_betting/img/Layer\ 18.png);
     position: absolute;
 }
 #f18 a{
@@ -742,7 +742,7 @@
     left: 385px;
     top: 124px;
     width: 54px;
-    background: url(/img/Layer\ 7.png);
+    background: url(/sport_betting/img/Layer\ 7.png);
     position: absolute;
 }
 .poker2{
@@ -773,7 +773,7 @@
         height: 666px;
         top: 0;
         left: 0;
-        background-image: url(/img/bg.jpg);
+        background-image: url(/sport_betting/img/bg.jpg);
         background-repeat: no-repeat;
         position: relative;
     }
@@ -793,7 +793,7 @@
         height: 576px;
         left: 0px;
         top: 112px;
-        background: url(/img/girl_left\ 1\ \(1\).png);
+        background: url(/sport_betting/img/girl_left\ 1\ \(1\).png);
         background-repeat: no-repeat;
     }
     .girl_right{
@@ -802,7 +802,7 @@
         height: 560px;
         left: 535px;
         top: 112px;
-        background: url(/img/girl_right\ 1\ \(1\).png);
+        background: url(/sport_betting/img/girl_right\ 1\ \(1\).png);
         background-repeat: no-repeat;
     }
     .form_back{
@@ -818,7 +818,7 @@
         left: 0px;
         top: 664px;
         position: absolute;
-        background-image: url(/img/Group\ 155.png);
+        background-image: url(/sport_betting/img/Group\ 155.png);
     }
     .block1{
         padding: 0px;
@@ -894,7 +894,7 @@
         height: 48px;
         left: 342px;
         top: 152px;
-        background: url(/img/bot_arr\ 1.png);
+        background: url(/sport_betting/img/bot_arr\ 1.png);
         position: absolute;
         cursor: pointer;
     }
@@ -1009,7 +1009,7 @@
         width: 1258px;
         height: 933px;
         top: 0px;
-        background: url(/img/bg\ \(1\).jpg);
+        background: url(/sport_betting/img/bg\ \(1\).jpg);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1025,7 +1025,7 @@
         height: 763.1px;
         top: 169.9px;
         position: absolute;
-        background: url(/img/girl_left\ 1\ 320.png);
+        background: url(/sport_betting/img/girl_left\ 1\ 320.png);
         background-repeat: no-repeat;
         z-index: 2;
     }
@@ -1035,7 +1035,7 @@
         left: 52.85px;
         top: 168px;
         position: absolute;
-        background: url(/img/girl_right\ 1\ 320.png);
+        background: url(/sport_betting/img/girl_right\ 1\ 320.png);
         background-repeat: no-repeat;
     }
     .form_back{
@@ -1107,7 +1107,7 @@
         height: 20px;
         right: 246px;
         top: 144px;
-        background: url(/img/Vector\ \(1\).png);
+        background: url(/sport_betting/img/Vector\ \(1\).png);
         background-repeat: no-repeat;
     }
     .select_country::after{
@@ -1118,7 +1118,7 @@
         left: 203px;
         top: -12px;
         position: absolute;
-        background: url(/img/006-united-arab-emirates\ 1.svg);
+        background: url(/sport_betting/img/006-united-arab-emirates\ 1.svg);
     }
     #number_country_code{
         position: absolute;
@@ -1170,7 +1170,7 @@
         width: 10px;
         height: 10px;
         display: block;
-        background: url(/img/Vector.png);
+        background: url(/sport_betting/img/Vector.png);
         background-repeat: no-repeat;
         z-index: 2;
         position: absolute;
@@ -1229,7 +1229,7 @@ color: #FFFFFF;
         left: -160px;
         top: 951px;
         position: absolute;
-        background-image: url(/img/Group\ 155.png);
+        background-image: url(/sport_betting/img/Group\ 155.png);
     }
     .block1{
         height: 982px;
@@ -1297,7 +1297,7 @@ color: #FFFFFF;
         height: 459px;
         left: -639px;
         top: 1933px;
-        background: url(/img/registration\ 1\ 320.png);
+        background: url(/sport_betting/img/registration\ 1\ 320.png);
         position: absolute;
     }
     .active_bonus{
@@ -1328,12 +1328,12 @@ color: #FFFFFF;
         height: 48px;
         left: 750px;
         top: 160px;
-        background: url(/img/bot_arr\ 1.png);
+        background: url(/sport_betting/img/bot_arr\ 1.png);
         position: absolute;
         cursor: pointer;
     }
     .money_100{
-        background: url(/img/100\ USD\ \(1\).png);
+        background: url(/sport_betting/img/100\ USD\ \(1\).png);
         position: absolute;
         width: 535px;
         height: 120px;
@@ -1431,7 +1431,7 @@ color: #FFFFFF;
         height: 17px;
         left: calc(82% - 54px/2 - 171px);
         top: calc(84% - 17px/2 - 56.5px);
-        background: url(/img/Layer\ 20\ 320.png);
+        background: url(/sport_betting/img/Layer\ 20\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1440,7 +1440,7 @@ color: #FFFFFF;
         height: 14px;
         left: calc(58% - 81px/2 - 0.5px);
         top: calc(83% - 14px/2 - 56px);
-        background: url(/img/Layer\ 17\ 320.png);
+        background: url(/sport_betting/img/Layer\ 17\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
 
@@ -1450,7 +1450,7 @@ color: #FFFFFF;
         height: 26px;
         left: calc(23% - 40px/2 + 168px);
         top: calc(79% - 26px/2 - 56px);
-        background: url(/img/Layer\ 28\ 320.png);
+        background: url(/sport_betting/img/Layer\ 28\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
 
@@ -1460,7 +1460,7 @@ color: #FFFFFF;
         height: 24px;
         left: calc(80% - 41px/2 - 168.5px);
         top: calc(64% - 24px/2);
-        background: url(/img/Layer\ 5\ 320.png);
+        background: url(/sport_betting/img/Layer\ 5\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
 
@@ -1470,7 +1470,7 @@ color: #FFFFFF;
         left: calc(57% - 74px/2);
         top: calc(64% - 20px/2 - 1px);
         width: 74px;
-        background: url(/img/Layer\ 19\ 320.png);
+        background: url(/sport_betting/img/Layer\ 19\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
 
@@ -1480,7 +1480,7 @@ color: #FFFFFF;
         left: calc(29% - 67px/2 + 168.5px);
         top: calc(63% - 21px/2 - 0.5px);
         width: 67px;
-        background: url(/img/Layer\ 9\ 320.png);
+        background: url(/sport_betting/img/Layer\ 9\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
 
@@ -1490,7 +1490,7 @@ color: #FFFFFF;
         left: calc(83% - 76px/2 - 168px);
         top: calc(38% - 20px/2 + 56px);
         width: 76px;
-        background: url(/img/Layer\ 22\ 320.png);
+        background: url(/sport_betting/img/Layer\ 22\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
 
@@ -1500,7 +1500,7 @@ color: #FFFFFF;
         left: calc(57% - 92px/2);
         top: calc(37% - 11px/2 + 57.5px);
         width: 92px;
-        background: url(/img/Layer\ 21\ 320.png);
+        background: url(/sport_betting/img/Layer\ 21\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1509,7 +1509,7 @@ color: #FFFFFF;
         left: calc(28% - 54px/2 + 168px);
         top: calc(37% - 17px/2 + 56.5px);
         width: 54px;
-        background: url(/img/Layer\ 7\ 320.png);
+        background: url(/sport_betting/img/Layer\ 7\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1518,7 +1518,7 @@ color: #FFFFFF;
         left: calc(78% - 29px/2 - 167.5px);
         top: calc(88% - 29px/2 - 56.5px);
         width: 29px;
-        background: url(/img/Layer\ 27\ 320.png);
+        background: url(/sport_betting/img/Layer\ 27\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1527,7 +1527,7 @@ color: #FFFFFF;
         left: calc(56% - 94px/2);
         top: calc(85% - 20px/2 - 56px);
         width: 94px;
-        background: url(/img/Layer\ 26\ 320.png);
+        background: url(/sport_betting/img/Layer\ 26\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1536,7 +1536,7 @@ color: #FFFFFF;
         left: 218px;
         top: 4px;
         width: 47px;
-        background: url(/img/Layer\ 12\ 320.png);
+        background: url(/sport_betting/img/Layer\ 12\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1545,7 +1545,7 @@ color: #FFFFFF;
         left: calc(83% - 74px/2 - 170px);
         top: calc(63% - 23px/2 - 0.5px);
         width: 74px;
-        background: url(/img/Layer\ 11\ 320.png);
+        background: url(/sport_betting/img/Layer\ 11\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1554,7 +1554,7 @@ color: #FFFFFF;
         left: calc(57% - 90px/2);
         top: calc(63% - 19px/2 - 0.5px);
         width: 90px;
-        background: url(/img/Layer\ 16\ 320.png);
+        background: url(/sport_betting/img/Layer\ 16\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1563,7 +1563,7 @@ color: #FFFFFF;
         left: calc(29% - 60px/2 + 168px);
         top: calc(64% - 27px/2 - 0.5px);
         width: 60px;
-        background: url(/img/Layer\ 23\ 320.png);
+        background: url(/sport_betting/img/Layer\ 23\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1572,7 +1572,7 @@ color: #FFFFFF;
         left: 16px;
         top: 80px;
         width: 87px;
-        background: url(/img/Layer\ 25\ 320.png);
+        background: url(/sport_betting/img/Layer\ 25\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1581,7 +1581,7 @@ color: #FFFFFF;
         left: calc(57% - 93px/2 + 0.5px);
         top: calc(39% - 15px/2 + 55.5px);
         width: 93px;
-        background: url(/img/Layer\ 18\ 320.png);
+        background: url(/sport_betting/img/Layer\ 18\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
@@ -1590,7 +1590,7 @@ color: #FFFFFF;
         left: 217px;
         top: 80px;
         width: 54px;
-        background: url(/img/Layer\ 77\ 320.png);
+        background: url(/sport_betting/img/Layer\ 77\ 320.png);
         position: absolute;
         background-repeat: no-repeat;
     }
