@@ -8,7 +8,7 @@
     height: 666px;
     top: 0;
     left: 0;
-    background-image: url(/img/bg.jpg);
+    background-image: url(/sport_betting/img/bg.jpg);
     background-repeat: no-repeat;
     position: relative;
 }
@@ -32,7 +32,7 @@
     height: 79px;
     left: 115px;
     top: 389px;
-    background-image: url(/img/f2_2.png);
+    background-image: url(/sport_betting/img/f2_2.png);
 }
 .figure2{
     position: absolute;
@@ -40,7 +40,7 @@
     height: 450px;
     left: 1558px;
     top: 153.07px;
-    background: url(/img/f2\ \(1\).png);
+    background: url(/sport_betting/img/f2\ \(1\).png);
     transform: rotate(-10.99deg);
 }
 .figure3{
@@ -49,7 +49,7 @@
     height: 416px;
     left: 130px;
     top: 188px;
-    background: url(/img/f1_2.png);
+    background: url(/sport_betting/img/f1_2.png);
 }
 .girl_left{
     position: absolute;
@@ -57,7 +57,7 @@
     height: 644px;
     left: 315px;
     top: 22px;
-    background: url(/img/girl_left\ 1.png);
+    background: url(/sport_betting/img/girl_left\ 1.png);
 }
 .girl_right{
     position: absolute;
@@ -65,7 +65,7 @@
     height: 633px;
     left: 1289px;
     top: 33px;
-    background: url(/img/girl_right\ 1.png);
+    background: url(/sport_betting/img/girl_right\ 1.png);
 }
 .form_back{
     position: absolute;
