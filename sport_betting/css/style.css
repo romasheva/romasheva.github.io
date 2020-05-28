@@ -180,7 +180,7 @@
     height: 20px;
     right: 125px;
     top: 171px;
-    background: url(/img/Vector\ \(1\).png);
+    background: url(/sport_betting/img/Vector\ \(1\).png);
     background-repeat: no-repeat;
 }
 .select_country::after{
@@ -191,7 +191,7 @@
     left: 91px;
     top: -12px;
     position: absolute;
-    background: url(/img/006-united-arab-emirates\ 1.svg);
+    background: url(/sport_betting/img/006-united-arab-emirates\ 1.svg);
 }
 .form_checkbox_text1{
     width: 346px;
@@ -224,7 +224,7 @@
     width: 10px;
     height: 10px;
     display: block;
-    background: url(/img/Vector.png);
+    background: url(/sport_betting/img/Vector.png);
     background-repeat: no-repeat;
     z-index: 2;
     position: absolute;
@@ -266,7 +266,7 @@
     left: 0px;
     top: 664px;
     position: absolute;
-    background-image: url(/img/Group\ 155.png);
+    background-image: url(/sport_betting/img/Group\ 155.png);
 }
 .block1{
     flex-direction: row;
@@ -420,7 +420,7 @@
     left: 0px;
     top: 904px;
     position: absolute;
-    background: url(/img/registration\ 1.png);
+    background: url(/sport_betting/img/registration\ 1.png);
 }
 .active_bonus{
     top: 56px;
@@ -445,7 +445,7 @@
     padding-left: 15px;
 }
 .money_100{
-    background: url(/img/Frame\ 161.png);
+    background: url(/sport_betting/img/Frame\ 161.png);
     position: absolute;
     width: 535px;
     height: 120px;
@@ -457,7 +457,7 @@
     height: 48px;
     left: 916px;
     top: 152px;
-    background: url(/img/bot_arr\ 1.png);
+    background: url(/sport_betting/img/bot_arr\ 1.png);
     position: absolute;
     cursor: pointer;
 }
@@ -606,7 +606,7 @@
     height: 17px;
     left: calc(50% - 54px/2 - 171px);
     top: calc(50% - 17px/2 - 56.5px);
-    background: url(/img/Layer\ 20.png);
+    background: url(/sport_betting/img/Layer\ 20.png);
     position: absolute;
 }
 #f2 a{
