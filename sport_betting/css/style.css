@@ -1602,7 +1602,7 @@ color: #FFFFFF;
         top: 326px;
         position: absolute;
     }
-    /* .text_footer p{
+    .text_footer p{
         width: 271px;
         height: 340px;
         left: 0;
@@ -1615,5 +1615,5 @@ color: #FFFFFF;
         letter-spacing: 0.4px;
         color: #CCCCCC;
         position: absolute;
-    } */
+    }
 }    
